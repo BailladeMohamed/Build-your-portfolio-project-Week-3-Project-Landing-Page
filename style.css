@@ -1,0 +1,85 @@
+
+*{
+    font-family: "poppins";
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+  
+}
+.navbarat ul li{
+    display: flex;
+    text-decoration: none;
+    cursor: pointer;
+}
+.navbarat ul{
+    display: flex;
+ justify-content: space-between;
+ 
+}
+.navbarat{
+    width: 30%;
+    margin-top: 20px;
+}
+.portfolio{
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pfimg{
+ width: 500px;
+}
+.btn{
+    padding: 1%;
+    color: white;
+    border-radius: 8px;
+    background-color: rgb(0, 0, 113);
+    cursor: pointer;
+    
+}
+.btn:hover{
+background-color: white;
+color: rgb(0, 0, 113);
+}
+.aboutme{
+    width: 90%;
+    margin: auto;
+}
+.portfolio2{
+    margin: auto;
+    margin-top: 150px;
+width: 40%;
+
+}
+.prtf{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.portfolio3{
+
+    width: 90%;
+
+    margin: auto;
+    margin-top: 100px;
+}
+.portfolio5{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    
+}
+.portfolio5 p{
+  color: white;
+    
+}
